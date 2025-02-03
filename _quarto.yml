@@ -44,6 +44,8 @@ website:
             text: MLOps
       - href: chapters/application.qmd
         text: Application
+      - href: /slides.html
+        text: Slides
       - text: Projets
         menu:
           - href: /website/chapters/evaluation.qmd
