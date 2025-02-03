@@ -22,35 +22,35 @@ website:
         text: Introduction
       - text: Les bases
         menu:
-          - href: /website/chapters/linux-101.qmd
+          - href: /website/chapters/linux-101.html
             text: Linux 101
-          - href: /website/chapters/git.qmd
+          - href: /website/chapters/git.html
             text: Git
       - text: Bonnes pratiques de développement
         menu:
-          - href: /website/chapters/code-quality.qmd
+          - href: /website/chapters/code-quality.html
             text: Qualité du code
-          - href: /website/chapters/projects-architecture.qmd
+          - href: /website/chapters/projects-architecture.html
             text: Structure des projets
-          - href: /website/chapters/big-data.qmd
+          - href: /website/chapters/big-data.html
             text: Traitement des données volumineuses
-          - href: /website/chapters/portability.qmd
+          - href: /website/chapters/portability.html
             text: Portabilité
       - text: Mise en production
         menu:
-          - href: /website/chapters/deployment.qmd
+          - href: /website/chapters/deployment.html
             text: Déploiement
-          - href: /website/chapters/mlops.qmd
+          - href: /website/chapters/mlops.html
             text: MLOps
-      - href: chapters/application.qmd
+      - href: chapters/application.html
         text: Application
       - href: https://ensae-reproductibilite.github.io/slides/
         text: Slides
       - text: Projets
         menu:
-          - href: /website/chapters/evaluation.qmd
+          - href: /website/chapters/evaluation.html
             text: Modalités d'évaluation
-          - href: /website/chapters/galerie.qmd
+          - href: /website/chapters/galerie.html
             text: Galerie des projets passés
       - icon: github
         menu:
