@@ -44,7 +44,7 @@ website:
             text: MLOps
       - href: chapters/application.qmd
         text: Application
-      - href: /slides.html
+      - href: https://ensae-reproductibilite.github.io/slides/
         text: Slides
       - text: Projets
         menu:

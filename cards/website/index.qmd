@@ -2,17 +2,9 @@
 image: https://minio.lab.sspcloud.fr/lgaliana/generative-art/mise-en-prod/adults-drawing.webp
 title: Site web
 date: "2025-02-03"
-description: |
-  <br>
-  Site web du cours
-  <br>
-abstract: |
-  <br>
-  Site web du cours
-  <br>
 slides:
   text: Site
-  url: /website.html
+  url: https://ensae-reproductibilite.github.io/website/
 code:
   text: Code
   url: https://github.com/ensae-reproductibilite/website.git
