@@ -1,3 +1,3 @@
 # ensae-reproductibilite.github.io
 
-Point d'entrée: https://ensae-reproductibilite.github.io/
+Portail point d'entrée du cours https://ensae-reproductibilite.github.io/
