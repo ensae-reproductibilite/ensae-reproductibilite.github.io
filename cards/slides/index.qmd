@@ -1,0 +1,20 @@
+---
+image: https://minio.lab.sspcloud.fr/lgaliana/generative-art/mise-en-prod/slides-comic.jpg
+title: Slides du cours
+date: "2025-02-03"
+description: |
+  <br>
+  Les slides du cours
+  <br>
+abstract: |
+  <br>
+  Les slides du cours
+  <br>
+slides:
+  text: Slides
+  url: /chapters/application.html
+code:
+  text: Code
+  url: https://github.com/ensae-reproductibilite/application.git
+order: 2
+---

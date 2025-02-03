@@ -1,0 +1,20 @@
+---
+image: https://minio.lab.sspcloud.fr/lgaliana/generative-art/mise-en-prod/tour-eiffel-fil-rouge.jpg
+title: Application fil rouge
+date: "2025-02-03"
+description: |
+  <br>
+  Application fil rouge
+  <br>
+abstract: |
+  <br>
+  Application fil rouge
+  <br>
+slides:
+  text: Application
+  url: /slides.html
+code:
+  text: Code
+  url: https://github.com/ensae-reproductibilite/slides.git
+order: 3
+---

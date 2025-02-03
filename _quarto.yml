@@ -1,0 +1,61 @@
+project:
+  type: website
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+website:
+  title: "Mise en production"
+  navbar:
+    background: "#447099"
+    search: true
+    align: center
+    collapse-below: lg
+    left:
+      - href: chapters/introduction.qmd
+        text: Introduction
+      - text: Les bases
+        menu:
+          - href: /website/chapters/linux-101.qmd
+            text: Linux 101
+          - href: /website/chapters/git.qmd
+            text: Git
+      - text: Bonnes pratiques de développement
+        menu:
+          - href: /website/chapters/code-quality.qmd
+            text: Qualité du code
+          - href: /website/chapters/projects-architecture.qmd
+            text: Structure des projets
+          - href: /website/chapters/big-data.qmd
+            text: Traitement des données volumineuses
+          - href: /website/chapters/portability.qmd
+            text: Portabilité
+      - text: Mise en production
+        menu:
+          - href: /website/chapters/deployment.qmd
+            text: Déploiement
+          - href: /website/chapters/mlops.qmd
+            text: MLOps
+      - href: chapters/application.qmd
+        text: Application
+      - text: Projets
+        menu:
+          - href: /website/chapters/evaluation.qmd
+            text: Modalités d'évaluation
+          - href: /website/chapters/galerie.qmd
+            text: Galerie des projets passés
+      - icon: github
+        menu:
+          - text: Site web
+            url:  https://github.com/ensae-reproductibilite/website
+          - text: Slides
+            url:  https://github.com/ensae-reproductibilite/slides
+          - text: Application fil rouge
+            url:  https://github.com/ensae-reproductibilite/application
+

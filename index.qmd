@@ -1,0 +1,20 @@
+---
+listing:
+  id: formations
+  contents: cards
+  sort: "order asc"
+  template: listing-grid.ejs
+  grid-columns: 2
+page-layout: full
+toc: false
+---
+
+## Cours de mise en production de projets _data science_
+
+Un parcours de formation construit par Romain Avouac et Lino Galiana pour le parcours d'ingénieurs de l'ENSAE.
+
+::: {#formations}
+:::
+
+Tous les supports sont sur [`Github` {{< fa brands github >}}](https://github.com/ensae-reproductibilite).
+
