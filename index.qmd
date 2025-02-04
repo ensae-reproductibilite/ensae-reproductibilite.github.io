@@ -7,11 +7,12 @@ listing:
   grid-columns: 2
 page-layout: full
 toc: false
+license: "CC BY-NC"
 ---
 
 ## Cours de mise en production de projets _data science_
 
-Un parcours de formation construit par Romain Avouac et Lino Galiana pour le parcours d'ingénieurs de l'ENSAE.
+Un parcours de formation construit par [Romain Avouac](https://github.com/avouacr) et [Lino Galiana](https://github.com/linogaliana) pour le parcours d'ingénieurs de la donnée de l'ENSAE.
 
 ::: {#formations}
 :::

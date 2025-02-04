@@ -12,7 +12,7 @@ abstract: |
   <br>
 slides:
   text: Application
-  url: https://ensae-reproductibilite.github.io/website/application.html
+  url: https://ensae-reproductibilite.github.io/website/chapters/application.html
 code:
   text: Code
   url: https://github.com/ensae-reproductibilite/slides.git

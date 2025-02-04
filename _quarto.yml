@@ -13,12 +13,13 @@ format:
 website:
   title: "Mise en production"
   navbar:
+    title: false
     background: "#447099"
     search: true
     align: center
     collapse-below: lg
     left:
-      - href: chapters/introduction.qmd
+      - href: /website/chapters/chapters/introduction.html
         text: Introduction
       - text: Les bases
         menu:
@@ -42,7 +43,7 @@ website:
             text: Déploiement
           - href: /website/chapters/mlops.html
             text: MLOps
-      - href: chapters/application.html
+      - href: /website/chapters/application.html
         text: Application
       - href: https://ensae-reproductibilite.github.io/slides/
         text: Slides
