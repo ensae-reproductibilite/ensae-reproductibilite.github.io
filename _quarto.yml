@@ -19,7 +19,7 @@ website:
     align: center
     collapse-below: lg
     left:
-      - href: /website/chapters/chapters/introduction.html
+      - href: /website/chapters/introduction.html
         text: Introduction
       - text: Les bases
         menu:
